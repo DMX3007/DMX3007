@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/44518852/219102285-3c149fea-0c4d-4dfd-bc6f-f4c43efebcf9.png)
 - 🔭 Currently I’m working as a freelance Web Developer
-- 🌱 I'm working with: NextJS, React, Tailwind, API's;
+- 🌱 I'm working with: NextJS, React, Tailwind;
 - 📝 Interesting to study: REST, GraphQL, NodeJS/PHP/Ruby;
 - 📫 How to reach me: demix3991@gmail.com;
 
